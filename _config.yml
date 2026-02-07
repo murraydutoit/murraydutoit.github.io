@@ -1,0 +1,23 @@
+# --- Site Settings ---
+title: Murray Du Toit | Portfolio
+description: "Product Design Engineering Student and Maker"
+baseurl: "" # Set to "/project-name" if not using a custom domain
+url: "https://yourusername.github.io"
+
+# --- Build Settings ---
+markdown: kramdown
+theme: minima # Or your chosen theme
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# --- User Settings (Custom Variables) ---
+author:
+  name: Your Name
+  email: hello@yourdomain.com
+  twitter_username: yourhandle
+  github_username:  yourusername
+  linkedin_username: yourprofile
+
+# --- Portfolio Specifics ---
+footer_message: "Built with Jekyll and ❤️"
