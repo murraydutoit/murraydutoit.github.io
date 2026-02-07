@@ -6,12 +6,12 @@ url: "https://yourusername.github.io"
 
 # --- Build Settings ---
 markdown: kramdown
-theme: minima # Or your chosen theme
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-  # --- Minima Theme Settings ---
+# --- Minima Theme Settings ---
 minima:
   skin: dark
 
